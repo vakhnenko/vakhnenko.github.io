@@ -1,9 +1,3 @@
-<style>
-  .container {
-    margin: 3em auto;
-    max-width: 52em
-   }
-</style>
 
 # Это веб-страница
 
@@ -39,3 +33,11 @@
 
 Cheers,  
 Justin Jackson
+
+
+<style>
+  .container {
+    margin: 3em auto;
+    max-width: 52em
+   }
+</style>
