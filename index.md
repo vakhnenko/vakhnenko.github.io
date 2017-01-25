@@ -1,5 +1,8 @@
 <style>
-  .container { margin: 3em; max-width: 52em }
+  .container {
+    margin: 3em auto;
+    max-width: 52em
+   }
 </style>
 
 # Это веб-страница
