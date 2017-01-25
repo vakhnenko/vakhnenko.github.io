@@ -1,3 +1,6 @@
+<style>
+  .container { margin: 3em; max-width: 52em }
+</style>
 
 # Это веб-страница
 
