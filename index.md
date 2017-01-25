@@ -35,9 +35,4 @@ Cheers,
 Justin Jackson
 
 
-<style>
-  .container {
-    margin: 3em auto;
-    max-width: 52em
-   }
-</style>
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
